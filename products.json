@@ -1,10 +1,10 @@
 [
-    {
-        "nom": "Olma",
-        "miqdor": 5
-    },
-    {
-        "nom": "Non",
-        "miqdor": 20
-    }
+ {
+  "nom": "Olma",
+  "miqdor": 15
+ },
+ {
+  "nom": "Non",
+  "miqdor": 20
+ }
 ]

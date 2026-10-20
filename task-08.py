@@ -16,7 +16,7 @@ for mahsulot in mahsulotlar:
 
 if topildi:
     with open("products.json", "w") as f:
-        json.dump(mahsulotlar, f, indent=4)
+        json.dump(mahsulotlar, f)
     print("Mahsulot miqdori yangilandi!")
 else:
     print("Mahsulot topilmadi!")
